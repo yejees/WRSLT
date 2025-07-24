@@ -3,7 +3,6 @@
 ## Environment Setting
 ```
 pip install -r requirements.txt
-
 ```
   
 ## For training
